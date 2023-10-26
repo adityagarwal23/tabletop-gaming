@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Squad
+comment0.text=\r\n\ \ This\ class\ represents\ the\ group\ of\ units\r\n\ \ that\ is\ composed\ of\ multiple\ characters.\r\n\r\n\ \ @author\ (adityaagarwal)\r\n\ \ @version\ (2023.10.24)\r\n
+comment1.params=nameIn
+comment1.target=Squad(java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Squad\ object.\r\n\ @param\ nameIn\ is\ the\ name\ that\r\n\ is\ being\ given.\r\n
+comment2.params=
+comment2.target=java.util.List\ getUnits()
+comment2.text=\r\n\ Gets\ all\ of\ the\ different\ units\r\n\ and\ adds\ it\ to\ the\ list.\r\n\ @return\ the\ amount\ of\ units\r\n\ it\ got\r\n
+comment3.params=unit
+comment3.target=void\ addUnit(Unit)
+comment3.text=\r\n\ Gets\ the\ units\ that\ the\r\n\ user\ is\ trying\ to\ add\r\n\ @param\ unit\ is\ the\ units\r\n\ it\ is\ getting\r\n
+comment4.params=unit
+comment4.target=void\ removeUnit(Unit)
+comment4.text=\r\n\ removes\ a\ unit\ from\ the\ \r\n\ list\ of\ the\ units.\r\n\ @param\ unit\ is\ the\ units\ it\ \r\n\ will\ remove\r\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\r\n\ Gets\ the\ points\ value\ from\ \r\n\ the\ different\ units\r\n\ @return\ is\ the\ totalPoints\r\n\ and\ the\ new\ getPoints\r\n\ it\ is\ reaching\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Overrides\ the\ to\ string\ value\ to\ \r\n\ add\ the\ units\ and\ the\ different\ units\ that\r\n\ were\ defined\ in\ the\ list.\r\n\ @return\ is\ the\ super\ string\ method\r\n\ and\ the\ new\ amount\ of\ units\r\n
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\r\n\ \ a\ monster\ can\ have\ a\ special\ rule\ that\ represents\r\n\ \ a\ special\ move,\ extra\ resistance\ to\ certain\ opponents,\ etc.\ \r\n\r\n\ \ @author\ (adityaagarwal)\r\n\ \ @version\ (2023.10.17)\r\n
+comment1.params=nameIn\ pointsIn
+comment1.target=Monster(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Monster\ object.\r\n\ @param\ nameIn\ is\ the\ name\ given\r\n\ @param\ pointsIn\ is\ the\ amount\r\n\ of\ points\ given\r\n
+numComments=2

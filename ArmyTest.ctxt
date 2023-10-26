@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArmyTest
+comment0.text=\r\n\ \ Tests\ the\ methods\ for\ the\ army\ class\r\n\r\n\ \ @author\ (adityaagarwal)\r\n\ \ @version\ (2023.10.24)\r\n
+comment1.params=
+comment1.target=ArmyTest()
+comment1.text=\r\n\ Creates\ a\ new\ ArmyTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testGetterAndSetterPlayerName()
+comment3.text=\r\n\ tests\ the\ getterAndsetter\ for\ the\ player\r\n\ name\r\n
+comment4.params=
+comment4.target=void\ testGetterAndSetterFaction()
+comment4.text=\r\n\ Tests\ the\ getterAndSetter\ for\ faction\r\n
+comment5.params=
+comment5.target=void\ testToString()
+comment5.text=\r\n\ tests\ the\ toString\ method\r\n
+numComments=6

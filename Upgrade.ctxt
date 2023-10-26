@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Upgrade
+comment0.text=\r\n\ \ The\ upgrade\ class\ to\ help\ the\ object\r\n\ \ upgrade\ by\ using\ points\r\n\ \ \r\n\ \ @author\ (adityaagarwal)\r\n\ \ @version\ (2023.10.17)\r\n
+comment1.params=nameIn\ pointsIn
+comment1.target=Upgrade(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Upgrade\ object.\r\n\ @param\ nameIn\ is\ the\ name\ given\r\n\ @param\ pointsIn\ is\ the\ amount\ of\r\n\ points\ given\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ name,\ it\ has\ to\r\n\ be\ a\ string\ value\r\n\ @return\ gives\ name\ value\r\n
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ sets\ those\ names\ once\ it\ \r\n\ has\ gotten\ the\ name\r\n\ @param\ newName\ gets\ the\r\n\ new\ name\r\n\ string\r\n
+comment4.params=
+comment4.target=int\ getPoints()
+comment4.text=\r\n\ gets\ the\ points,\ an\ int\ \r\n\ value\r\n\ @return\ the\ amount\ of\ points\r\n
+comment5.params=newPoints
+comment5.target=void\ setPoints(int)
+comment5.text=\r\n\ sets\ the\ value\ of\ \r\n\ those\ points\r\n\ @param\ newPoints\ takes\ in\ the\ newPoints\r\n\ that\ were\ given\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Overrides\ the\ toString\ method\r\n\ with\ adding\ the\ name\r\n\ and\ the\ points\ together\r\n\ @return\ data\ of\ name\ and\ points\r\n
+numComments=7

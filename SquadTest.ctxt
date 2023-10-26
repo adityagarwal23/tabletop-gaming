@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SquadTest
+comment0.text=\r\n\ \ Tests\ for\ the\ squad\ methods\r\n\r\n\ \ @author\ (adityaagarwal)\r\n\ \ @version\ (2023.10.24)\r\n
+comment1.params=
+comment1.target=SquadTest()
+comment1.text=\r\n\ Creates\ a\ new\ SquadTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testGetUnits()
+comment3.text=\r\n\ tests\ the\ getUnit\ method\ to\ make\ sure\ it\ is\r\n\ getting\ the\ proper\ units\r\n
+comment4.params=
+comment4.target=void\ testAddUnit()
+comment4.text=\r\n\ tests\ if\ the\ proper\ units\ have\r\n\ been\ added\r\n
+comment5.params=
+comment5.target=void\ testRemoveUnit()
+comment5.text=\r\n\ tests\ to\ make\ sure\ the\ units\r\n\ have\ been\ removed\r\n
+comment6.params=
+comment6.target=void\ testGetPoints()
+comment6.text=\r\n\ tests\ to\ make\ sure\ it\ is\ getting\r\n\ the\ right\ amount\ of\ points\r\n
+comment7.params=
+comment7.target=void\ testToString()
+comment7.text=\r\n\ tests\ to\ make\ sure\r\n\ that\ the\ toString\ is\ returning\r\n\ the\ right\ value.\r\n
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=UpgradeTest
+comment0.text=\r\n\ \ These\ are\ the\ test\ methods\ for\ \r\n\ \ the\ upgrade\ class\r\n\r\n\ \ @author\ (adityaagarwal)\r\n\ \ @version\ (2023.10.17)\r\n
+comment1.params=
+comment1.target=UpgradeTest()
+comment1.text=\r\n\ Creates\ a\ new\ UpgradeTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testGetterAndSetterName()
+comment3.text=\r\n\ Tests\ the\ getter\ and\ setter\r\n\ for\ the\ name\r\n
+comment4.params=
+comment4.target=void\ testGetterAndSetterPoints()
+comment4.text=\r\n\ tests\ the\ getter\ and\ setter\r\n\ for\ the\ points\r\n
+comment5.params=
+comment5.target=void\ testConstructor()
+comment5.text=\r\n\ tests\ the\ constructor\ by\r\n\ using\ multiple\ assert\ statements\r\n
+comment6.params=
+comment6.target=void\ testToString()
+comment6.text=\r\n\ Tests\ the\ toString\ method\ to\ \r\n\ make\ sure\ it\ is\ displaying\ the\r\n\ toString\ currently.\r\n
+numComments=7

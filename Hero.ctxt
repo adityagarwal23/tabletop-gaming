@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\r\n\ \ \ The\ heroes\ can\ boost\ the\ capabilities\ of\ other\ units\ \r\n\ \ \ close\ to\ them,\ so\ their\ "special\ rule"\ \r\n\ \ \ often\ includes\ modifiers\ \r\n\ \ \ for\ nearby\ units.\r\n\r\n\ \ @author\ (adityaagarwal)\r\n\ \ @version\ (2023.10.17)\r\n
+comment1.params=nameIn\ pointsIn
+comment1.target=Hero(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Hero\ object.\r\n\ @param\ nameIn\ is\ the\ name\ given\r\n\ @param\ pointsIn\ is\ the\ amount\ of\r\n\ points\ given\r\n
+numComments=2

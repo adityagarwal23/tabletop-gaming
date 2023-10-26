@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Army
+comment0.text=\r\n\ \ Army\ of\ the\ people,\ where\ they\ are\ from,\ and\ \r\n\ \ which\ player's\ army\ it\ is.\r\n\r\n\ \ @author\ (adityaagarwal)\r\n\ \ @version\ (2023.10.24)\r\n
+comment1.params=nameIn\ faction\ playerName
+comment1.target=Army(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Army\ object.\r\n\ @param\ nameIn\ is\ the\ name\ it\ is\ given\r\n\ @param\ faction\ is\ where\ they\ are\ from\r\n\ @param\ playerName\ is\ the\ player\ it\ belongs\ to\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getPlayerName()
+comment2.text=\r\n\ Gets\ the\ playerName\r\n\ @return\ returns\ the\ \r\n\ newPlayer\ name\ it\ \r\n\ recieved\r\n
+comment3.params=newPlayerName
+comment3.target=void\ setPlayerName(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ player\ name\r\n\ @param\ newPlayerName\ is\ the\ getting\r\n\ the\ new\ player\ name\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFaction()
+comment4.text=\r\n\ Gets\ the\ Faction\r\n\ @return\ will\ return\ the\ faction\r\n\ it\ got\r\n
+comment5.params=newFaction
+comment5.target=void\ setFaction(java.lang.String)
+comment5.text=\r\n\ Sets\ the\ new\ faction\ that\ it\ just\ got\r\n\ @param\ newFaction\ is\ the\ faction\ it\ \r\n\ is\ getting\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ this\ toString\ method\ overrides\ the\ original\ toString\r\n\ and\ displays\ the\ new\ toString\ line.\r\n\ @return\ the\ playerName,\ faction,\ army\ with\r\n\ the\ original\ toString\r\n
+numComments=7

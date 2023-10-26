@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnhancedUnit
+comment0.text=\r\n\ \ A\ special\ ability\ might\ be\ a\ bonus\ that\ this\ \r\n\ \ unit\ provides\ to\ other\ units\ fighting\ with\ it,\ a\ \r\n\ \ special\ move\ it\ can\ perform,\ extra\ defense\ against\r\n\ \ certain\ kinds\ of\ opponents,\r\n\r\n\ \ @author\ (adityaagarwal)\r\n\ \ @version\ (2023.10.17)\r\n
+comment1.params=nameIn\ pointsIn
+comment1.target=EnhancedUnit(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Enhanced\ object.\r\n\ @param\ nameIn\ is\ the\ name\ given\r\n\ @param\ pointsIn\ is\ the\ points\ given\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSpecialRule()
+comment2.text=\r\n\ Gets\ the\ special\ rule\ value\r\n\ @return\ gives\ the\ special\ rule\r\n
+comment3.params=newSpecialRule
+comment3.target=void\ setSpecialRule(java.lang.String)
+comment3.text=\r\n\ sets\ the\ special\ rule\r\n\ @param\ newSpecialRule\ gives\r\n\ the\ new\ value\ of\ special\ rule\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ sto\ string\ returns\ with\ \r\n\ the\ original\ string\ if\ there\ is\ a\ \r\n\ special\ rule\ that\ has\ been\ defined.\ \r\n\ @return\ gives\ the\ value\ of\ the\ super\r\n\ string\ and\ the\ special\ rule.\r\n
+numComments=5
